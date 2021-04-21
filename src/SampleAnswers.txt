@@ -1,0 +1,5 @@
+lion -> horizontal search at i=1, j=2.
+newt -> vertical search at i=5, j=4.
+prawn -> diagonal search at  i=1, j=0.
+
+where i is row and j is column.
